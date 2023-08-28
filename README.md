@@ -1,2 +1,2 @@
-# prepcourse-henry
-este es un depositorio de prueba de el modulo de el prepcourse de soyhenry
+este proyecto es una prueba de como crear y clonar un repositorio desde github a mi escritorio
+
